@@ -1,2 +1,6 @@
-# Diego-s-files-from-TCC-2
-***Este repositório contém os arquivos que não foram anexados ao projeto final do TCC. Além disso, aqui estão os .stl; .f3d do Fusion 360 e o código do Arduino***
+# Article files
+*
+*
+*
+*
+In this repository the files .stl; .ino; .f3d and .png with illustration.
