@@ -60,7 +60,7 @@ void loop() {
   if (e_1 == 0 ) { //&& indicam se ambos os operandos são verdadeiros
     Serial.flush();
     delay(100);
-    Serial.println("  ========  Pêndulo Acoplado  =======  ");
+    Serial.println("  ========  Pêndulo Composto  =======  ");
     //Serial.println("        Por favor, selecione uma opção       ");
     Serial.println("        1 - Iniciar Experimento       ");
 
